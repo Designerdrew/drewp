@@ -1,0 +1,17 @@
+/*
+Theme Name: BS3 Theme
+Theme URI: http://www.designer-drew.com
+Description: BS3 responsive theme
+Version 1
+Author: Drew Pearce
+Author URI: http://www.designer-drew.com
+
+*/
+@import url('css/bootstrap.min.css');
+body{
+margin-bottom: 70px;
+}
+
+.panel h3{
+margin-top: 5px;
+}
